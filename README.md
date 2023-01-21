@@ -9,4 +9,5 @@ we can see the score table on the left top corner and during every point there i
 
 
 ![image](https://user-images.githubusercontent.com/59204940/213872337-83955a2f-b234-40ee-a5a5-35681b73a5a3.png)
+In this GIF the Lumpy hit the wall under it then the game over ;
 ![Flappy Lumpy _Trim](https://user-images.githubusercontent.com/59204940/213872354-3c4fd9fc-2b7c-46d9-8201-133ff4f9ae4d.gif)
